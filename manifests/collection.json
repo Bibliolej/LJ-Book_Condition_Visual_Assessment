@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestwarping.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestdetached.json",
+    "label" : "[Click to edit label]"
   } ]
 }
