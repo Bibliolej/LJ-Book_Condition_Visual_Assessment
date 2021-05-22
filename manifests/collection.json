@@ -1,0 +1,13 @@
+{
+  "id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Bibliolej/LJ-Book_Condition_Visual_Assessment project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestwarping.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
