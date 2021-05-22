@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestdetached.json",
+    "label" : "Detached Cover Manifest"
+  } ]
 }
