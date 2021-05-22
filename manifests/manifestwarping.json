@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestwarping.json",
+  "@type" : "sc:Manifest",
+  "label" : "Binding Warping Manifest",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Binding Condition: Warping",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "PRTD Division-Library of Congress",
+  "sequences" : [ {
+    "@id" : "http://29ad70b3-0a29-4062-9313-83726bb55238",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://0c9bfd5a-04f0-4448-a77f-533e642e55bf",
+      "@type" : "sc:Canvas",
+      "label" : "Binding:Warping",
+      "height" : 400,
+      "width" : 267,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://906425e1-ed4e-4867-befb-8499c6e6ec7b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/images/anc_vg_bc_warping/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/images/anc_vg_bc_warping",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 400,
+          "width" : 267
+        },
+        "on" : "http://0c9bfd5a-04f0-4448-a77f-533e642e55bf"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
