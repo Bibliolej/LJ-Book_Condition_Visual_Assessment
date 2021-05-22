@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestdetached.json",
-    "label" : "Detached Cover Manifest"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestpdwn.json",
     "label" : "Pastedown Lifting Manifest"
   } ]
