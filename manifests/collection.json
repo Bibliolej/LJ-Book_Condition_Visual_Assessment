@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestwarping.json",
     "label" : "Binding Warping Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestblackink.json",
+    "label" : "Black Ink Manifest"
   } ]
 }
