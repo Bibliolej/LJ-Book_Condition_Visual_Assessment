@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/manifests/manifestblackink.json",
+  "@type" : "sc:Manifest",
+  "label" : "Black Ink Manifest",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Textblock description: Black Ink",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "PRTD Division- Library of Congress",
+  "sequences" : [ {
+    "@id" : "http://52e44dc5-f947-49bd-8244-abbf78ccfd27",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://98a395cc-051c-4b3c-b123-1f8e5c3a0277",
+      "@type" : "sc:Canvas",
+      "label" : "Textblock Condition",
+      "height" : 400,
+      "width" : 267,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://558de241-7e52-4665-877d-8a780935425d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/images/anc_vg_td_inkcolor_black/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliolej.github.io/LJ-Book_Condition_Visual_Assessment/images/anc_vg_td_inkcolor_black",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 400,
+          "width" : 267
+        },
+        "on" : "http://98a395cc-051c-4b3c-b123-1f8e5c3a0277"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
